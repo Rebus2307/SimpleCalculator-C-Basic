@@ -15,8 +15,8 @@ Necesitas un compilador de C (GCC recomendado).
 
 | Sistema Operativo | Comando de Compilación | Comando de Ejecución |
 | :--- | :--- | :--- |
-| **Windows** | `gcc calc.c -o calc.exe` | `./calc.exe` |
-| **Linux** | `gcc calc.c -o calc` | `./calc` |
+| **Windows** | `gcc calculator.c -o calculator.exe` | `./calculator.exe` |
+| **Linux** | `gcc calculator.c -o calculator` | `./calculator` |
 
 ## 🧠 Conceptos Aplicados
 1. **Tipos de Datos:** Uso de `double` para mayor precisión decimal.
