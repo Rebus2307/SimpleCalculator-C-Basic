@@ -18,6 +18,8 @@ Necesitas un compilador de C (GCC recomendado).
 | **Windows** | `gcc calculator.c -o calculator.exe` | `./calculator.exe` |
 | **Linux** | `gcc calculator.c -o calculator` | `./calculator` |
 
+<img width="756" height="658" alt="imagen" src="https://github.com/user-attachments/assets/c6a67ec6-7b15-495d-bef6-16bb59c36dfa" />
+
 ## 🧠 Conceptos Aplicados
 1. **Tipos de Datos:** Uso de `double` para mayor precisión decimal.
 2. **Estructuras de Control:** Uso de `switch-case` para la selección de operaciones.
